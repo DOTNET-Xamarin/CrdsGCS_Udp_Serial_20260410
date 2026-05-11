@@ -1,0 +1,16 @@
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsController.dll.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsController.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsController.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Release\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Release\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Release\CrdsCont.60403B73.Up2Date
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Release\CrdsController.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Release\CrdsController.pdb
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsController.dll.config
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsController.dll
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsController.pdb
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Release\CrdsController.csproj.AssemblyReference.cache
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Release\CrdsController.csproj.CoreCompileInputs.cache
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Release\CrdsCont.60403B73.Up2Date
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Release\CrdsController.dll
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Release\CrdsController.pdb

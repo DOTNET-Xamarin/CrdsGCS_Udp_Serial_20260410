@@ -1,0 +1,408 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\communicationport\\comport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\communicationport\\comport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\communicationport\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\communicationport\\subscribe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\uavs\\vehicle.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\uavs\\vehicle.functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\crdsgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\crdsgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|e:\\_yongbeeat_works\\10. kat\\gcs_fts\\crdsgcs_udp_serial_20260410\\crdsgcs_udp_serial_20260410\\crdsview\\crdsgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\crdsgs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|e:\\_yongbeeat_works\\10. kat\\gcs_fts\\crdsgcs_udp_serial_20260410\\crdsgcs_udp_serial_20260410\\crdsview\\ucs\\monitors\\ucmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\ucmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\ucs\\monitors\\ucmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\ucmonitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\communicationport\\commsudpserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\communicationport\\commsudpserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\joystick\\joystickbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\joystick\\joystickbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\ucs\\monitors\\ucmonitormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\ucmonitormap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\uavs\\vehiclestatus.receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\uavs\\vehiclestatus.receive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\communicationport\\commsserialport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\communicationport\\commsserialport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\ucs\\monitors\\uchud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\uchud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\controls\\tabcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\controls\\tabcon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\mavlink\\message.types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\mavlink\\message.types.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\mavlink\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\mavlink\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36809FE0-953E-4567-A701-D7A939FEAAE7}|CrdsController\\CrdsController.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdscontroller\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36809FE0-953E-4567-A701-D7A939FEAAE7}|CrdsController\\CrdsController.csproj|solutionrelative:crdscontroller\\controllers\\monitorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\mavlink\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\mavlink\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\ucs\\monitors\\ucstatustabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\ucstatustabcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\communicationport\\icommsserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\communicationport\\icommsserial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\interface\\cominterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\interface\\cominterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsview\\ucs\\monitors\\ucmonitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DEB9695-B590-4DAF-A85E-564004AC7352}|CrdsView\\CrdsView.csproj|solutionrelative:crdsview\\ucs\\monitors\\ucmonitor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\uavs\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\uavs\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\crdsmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC66D582-79AC-47F7-BFB9-E4F596091BFB}|CrdsModel\\CrdsModel.csproj|solutionrelative:crdsmodel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 216,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 287,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrdsGS.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\CrdsGS.cs",
+              "RelativeDocumentMoniker": "CrdsView\\CrdsGS.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\CrdsGS.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "CrdsView\\CrdsGS.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T00:52:35.576Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JoystickBase.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Joystick\\JoystickBase.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Joystick\\JoystickBase.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Joystick\\JoystickBase.cs",
+              "RelativeToolTip": "CrdsView\\Joystick\\JoystickBase.cs",
+              "ViewState": "AgIAADIFAAAAAAAAAAAwwFAFAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T04:23:43.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UcMonitor.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "ViewState": "AgIAADUCAAAAAAAAAAAswG8CAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:20:56.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UcMonitor.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcMonitor.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcMonitor.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:20:52.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UcMonitorMap.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitorMap.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcMonitorMap.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitorMap.cs",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcMonitorMap.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAswJYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:03:10.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CommsSerialPort.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\CommsSerialPort.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\CommunicationPort\\CommsSerialPort.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\CommsSerialPort.cs",
+              "RelativeToolTip": "CrdsModel\\CommunicationPort\\CommsSerialPort.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAMwF4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T22:01:02.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UcHud.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcHud.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcHud.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcHud.cs",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcHud.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAYwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T01:51:36.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CommsUdpSerial.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\CommsUdpSerial.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\CommunicationPort\\CommsUdpSerial.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\CommsUdpSerial.cs",
+              "RelativeToolTip": "CrdsModel\\CommunicationPort\\CommsUdpSerial.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAuwI4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:17:42.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Message.Types.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Message.Types.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\Mavlink\\Message.Types.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Message.Types.cs",
+              "RelativeToolTip": "CrdsModel\\Mavlink\\Message.Types.cs",
+              "ViewState": "AgIAAOUEAAAAAAAAAAAYwMIFAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:58:09.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.Functions.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\Vehicle.Functions.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\UAVs\\Vehicle.Functions.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\Vehicle.Functions.cs",
+              "RelativeToolTip": "CrdsModel\\UAVs\\Vehicle.Functions.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAApwE0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T23:42:09.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MonitorController.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsController\\Controllers\\MonitorController.cs",
+              "RelativeDocumentMoniker": "CrdsController\\Controllers\\MonitorController.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsController\\Controllers\\MonitorController.cs",
+              "RelativeToolTip": "CrdsController\\Controllers\\MonitorController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA2wB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T04:35:15.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehicleStatus.Receive.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\VehicleStatus.Receive.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\UAVs\\VehicleStatus.Receive.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\VehicleStatus.Receive.cs",
+              "RelativeToolTip": "CrdsModel\\UAVs\\VehicleStatus.Receive.cs",
+              "ViewState": "AgIAAAEBAAAAAAAAAAAAABIBAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T02:47:54.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Message.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Message.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\Mavlink\\Message.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Message.cs",
+              "RelativeToolTip": "CrdsModel\\Mavlink\\Message.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T00:38:44.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Packet.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\Mavlink\\Packet.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Mavlink\\Packet.cs",
+              "RelativeToolTip": "CrdsModel\\Mavlink\\Packet.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAYwFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T01:05:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TabCon.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Controls\\TabCon.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Controls\\TabCon.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Controls\\TabCon.cs",
+              "RelativeToolTip": "CrdsView\\Controls\\TabCon.cs",
+              "ViewState": "AgIAABgDAAAAAAAAAAAkwCcDAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T01:49:51.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UcStatusTabControl.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcStatusTabControl.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcStatusTabControl.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcStatusTabControl.cs",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcStatusTabControl.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwKMBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T01:55:36.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Subscribe.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\Subscribe.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\CommunicationPort\\Subscribe.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\Subscribe.cs",
+              "RelativeToolTip": "CrdsModel\\CommunicationPort\\Subscribe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:04:54.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CrdsGS.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\CrdsGS.cs",
+              "RelativeDocumentMoniker": "CrdsView\\CrdsGS.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\CrdsGS.cs",
+              "RelativeToolTip": "CrdsView\\CrdsGS.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAuwGEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:44:17.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ICommsSerial.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\ICommsSerial.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\CommunicationPort\\ICommsSerial.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\ICommsSerial.cs",
+              "RelativeToolTip": "CrdsModel\\CommunicationPort\\ICommsSerial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T12:14:27.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComPort.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\ComPort.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\CommunicationPort\\ComPort.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\CommunicationPort\\ComPort.cs",
+              "RelativeToolTip": "CrdsModel\\CommunicationPort\\ComPort.cs",
+              "ViewState": "AgIAACUBAAAAAAAAAIA5wCsBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T09:57:41.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Program.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\Program.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Program.cs",
+              "RelativeToolTip": "CrdsModel\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAtwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T04:48:18.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ComInterface.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Interface\\ComInterface.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\Interface\\ComInterface.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\Interface\\ComInterface.cs",
+              "RelativeToolTip": "CrdsModel\\Interface\\ComInterface.cs",
+              "ViewState": "AgIAAOoBAAAAAAAAAAAIwPgBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T01:16:09.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CrdsModel\\UAVs\\Vehicle.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsModel\\UAVs\\Vehicle.cs",
+              "RelativeToolTip": "CrdsModel\\UAVs\\Vehicle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAADwvx0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-25T06:23:55.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UcMonitor.Designer.cs",
+              "DocumentMoniker": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.Designer.cs",
+              "RelativeDocumentMoniker": "CrdsView\\Ucs\\Monitors\\UcMonitor.Designer.cs",
+              "ToolTip": "E:\\_YongBeeAT_Works\\10. KAT\\GCS_FTS\\CrdsGCS_Udp_Serial_20260410\\CrdsGCS_Udp_Serial_20260410\\CrdsView\\Ucs\\Monitors\\UcMonitor.Designer.cs",
+              "RelativeToolTip": "CrdsView\\Ucs\\Monitors\\UcMonitor.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T23:55:06.298Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

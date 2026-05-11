@@ -1,0 +1,33 @@
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\CrdsModel.dll.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\CrdsModel.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\CrdsModel.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\EntityFramework.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\EntityFramework.SqlServer.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\Newtonsoft.Json.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Data.SQLite.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Data.SQLite.EF6.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Data.SQLite.Linq.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Diagnostics.DiagnosticSource.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\EntityFramework.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\EntityFramework.SqlServer.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\Newtonsoft.Json.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Data.SQLite.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\bin\Release\System.Diagnostics.DiagnosticSource.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsModel.dll.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsModel.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsView\bin\Release\CrdsModel.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\obj\Release\CrdsModel.csproj.AssemblyReference.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\obj\Release\CrdsModel.csproj.CoreCompileInputs.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\obj\Release\CrdsModel.csproj.Up2Date
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\obj\Release\CrdsModel.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsModel\obj\Release\CrdsModel.pdb
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsModel.dll.config
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsModel.dll
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsView\bin\Release\CrdsModel.pdb
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsModel\obj\Release\CrdsModel.csproj.AssemblyReference.cache
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsModel\obj\Release\CrdsModel.csproj.CoreCompileInputs.cache
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsModel\obj\Release\CrdsModel.csproj.Up2Date
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsModel\obj\Release\CrdsModel.dll
+C:\_YongBeeAT KjKIM\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsModel\obj\Release\CrdsModel.pdb

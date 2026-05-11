@@ -1,0 +1,11 @@
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.csproj.AssemblyReference.cache
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.GeneratedMSBuildEditorConfig.editorconfig
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.AssemblyInfoInputs.cache
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.AssemblyInfo.cs
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.csproj.CoreCompileInputs.cache
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\bin\Debug\netstandard2.0\AutoNaviMapProvider.dll.config
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\bin\Debug\netstandard2.0\AutoNaviMapProvider.deps.json
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\bin\Debug\netstandard2.0\AutoNaviMapProvider.dll
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\bin\Debug\netstandard2.0\AutoNaviMapProvider.pdb
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.dll
+F:\C-Sharp\GMap_Modify\src\AutoNaviMapProvider\obj\Debug\netstandard2.0\AutoNaviMapProvider.pdb

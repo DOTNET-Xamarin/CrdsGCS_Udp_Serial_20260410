@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CrdsView.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SourceType" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="SourceBaudRate" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UdpHost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.10.110</Value>
+    </Setting>
+    <Setting Name="UdpPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14550</Value>
+    </Setting>
+    <Setting Name="UseUdpSink" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="M8pAutoconfig" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="M8pFW130" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="MovingBase" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="SurveyInAcc" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="M8pTime" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="UdpLocalPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">14555</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

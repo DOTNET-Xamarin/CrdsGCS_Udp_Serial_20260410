@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks> net40; netstandard2.0</TargetFrameworks>
+    <RootNamespace>GMap.NET.MapProviders</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="GMap.NET.Core" Version="2.0.1" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,179 @@
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachController.exe.config
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachController.exe
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachController.pdb
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\EntityFramework.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\EntityFramework.SqlServer.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachModel.exe
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\System.Data.SQLite.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\System.Data.SQLite.EF6.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\System.Data.SQLite.Linq.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\Newtonsoft.Json.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachModel.pdb
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\PeachModel.exe.config
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\EntityFramework.xml
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\EntityFramework.SqlServer.xml
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\System.Data.SQLite.xml
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\Newtonsoft.Json.xml
+F:\C-Sharp\GCS_cowzon90\PeachController\bin\Debug\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\CrdsController.csproj.SuggestedBindingRedirects.cache
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\CrdsController.csproj.CopyComplete
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\PeachController.exe
+F:\C-Sharp\GCS_cowzon90\PeachController\obj\Debug\PeachController.pdb
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\CrdsController.exe.config
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\CrdsController.exe
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\CrdsController.pdb
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\EntityFramework.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\PeachModel.exe
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\System.Data.SQLite.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\Newtonsoft.Json.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\PeachModel.pdb
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\PeachModel.exe.config
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\EntityFramework.xml
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\System.Data.SQLite.xml
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\Newtonsoft.Json.xml
+F:\C-Sharp\GCS_cowzon90\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.csproj.SuggestedBindingRedirects.cache
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.csproj.CopyComplete
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.exe
+F:\C-Sharp\GCS_cowzon90\CrdsController\obj\Debug\CrdsController.pdb
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.exe.config
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.exe
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.pdb
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.exe
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Newtonsoft.Json.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.pdb
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.exe.config
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.xml
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.xml
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Newtonsoft.Json.xml
+C:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.exe
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.pdb
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\CrdsController.exe.config
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\CrdsController.exe
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\CrdsController.pdb
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\EntityFramework.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\PeachModel.exe
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\System.Data.SQLite.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\Newtonsoft.Json.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\PeachModel.pdb
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\PeachModel.exe.config
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\EntityFramework.xml
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\System.Data.SQLite.xml
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\Newtonsoft.Json.xml
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.csproj.SuggestedBindingRedirects.cache
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.csproj.CopyComplete
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.exe
+F:\C-Sharp\CrdsGCS(backup-20230519)\CrdsController\obj\Debug\CrdsController.pdb
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.exe.config
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.exe
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\CrdsController.pdb
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.exe
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Newtonsoft.Json.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.pdb
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\PeachModel.exe.config
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.xml
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\System.Data.SQLite.xml
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Newtonsoft.Json.xml
+F:\C-Sharp\CrdsGCS\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsCont.60403B73.Up2Date
+F:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.exe
+F:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.pdb
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsCont.60403B73.Up2Date
+C:\C-Sharp\CrdsGCS\CrdsController\obj\Debug\CrdsController.exe.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsController.dll.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsController.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsController.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsModel.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\EntityFramework.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\SharpDX.DirectInput.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\SharpDX.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.CodeDom.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.Data.SQLite.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\Newtonsoft.Json.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsModel.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\CrdsModel.dll.config
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\EntityFramework.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\SharpDX.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\SharpDX.DirectInput.pdb
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\SharpDX.DirectInput.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.CodeDom.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\System.Data.SQLite.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\Newtonsoft.Json.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Debug\CrdsCont.60403B73.Up2Date
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Debug\CrdsController.dll
+F:\C-Sharp\CrdsGCS_Udp\CrdsController\obj\Debug\CrdsController.pdb
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsController.dll.config
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsController.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsController.pdb
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsModel.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\EntityFramework.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\EntityFramework.SqlServer.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\SharpDX.DirectInput.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\SharpDX.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.CodeDom.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.Data.SQLite.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.Data.SQLite.EF6.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.Data.SQLite.Linq.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\Newtonsoft.Json.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsModel.pdb
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\CrdsModel.dll.config
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\EntityFramework.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\EntityFramework.SqlServer.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\SharpDX.pdb
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\SharpDX.DirectInput.pdb
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\SharpDX.DirectInput.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.CodeDom.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\System.Data.SQLite.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\Newtonsoft.Json.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\bin\Debug\Iconic.Zlib.Netstandard.xml
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Debug\CrdsController.csproj.AssemblyReference.cache
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Debug\CrdsController.csproj.CoreCompileInputs.cache
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Debug\CrdsCont.60403B73.Up2Date
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Debug\CrdsController.dll
+E:\_YongBeeAT_Works\10. KAT\GCS_FTS\CrdsGCS_Udp_Serial_20260410\CrdsGCS_Udp_Serial_20260410\CrdsController\obj\Debug\CrdsController.pdb
